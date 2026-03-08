@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manuh\\source\\repos\\ConsoleAppSimpleStat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFF1239-4797-F21C-B783-A070F9F4415D}|ConsoleAppSimpleStat\\ConsoleAppSimpleStat.csproj|c:\\users\\manuh\\source\\repos\\consoleappsimplestat\\consoleappsimplestat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFF1239-4797-F21C-B783-A070F9F4415D}|ConsoleAppSimpleStat\\ConsoleAppSimpleStat.csproj|solutionrelative:consoleappsimplestat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manuh\\source\\repos\\ConsoleAppSimpleStat\\ConsoleAppSimpleStat\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSimpleStat\\Program.cs",
+              "ToolTip": "C:\\Users\\manuh\\source\\repos\\ConsoleAppSimpleStat\\ConsoleAppSimpleStat\\Program.cs",
+              "RelativeToolTip": "ConsoleAppSimpleStat\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:52:43.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

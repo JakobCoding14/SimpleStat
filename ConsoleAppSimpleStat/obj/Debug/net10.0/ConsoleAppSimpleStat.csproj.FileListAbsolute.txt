@@ -1,0 +1,14 @@
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\bin\Debug\net10.0\ConsoleAppSimpleStat.exe
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\bin\Debug\net10.0\ConsoleAppSimpleStat.deps.json
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\bin\Debug\net10.0\ConsoleAppSimpleStat.runtimeconfig.json
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\bin\Debug\net10.0\ConsoleAppSimpleStat.dll
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\bin\Debug\net10.0\ConsoleAppSimpleStat.pdb
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\ConsoleAppSimpleStat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\ConsoleAppSimpleStat.AssemblyInfoInputs.cache
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\ConsoleAppSimpleStat.AssemblyInfo.cs
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\ConsoleAppSimpleStat.csproj.CoreCompileInputs.cache
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\ConsoleAppSimpleStat.dll
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\refint\ConsoleAppSimpleStat.dll
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\ConsoleAppSimpleStat.pdb
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\ConsoleAppSimpleStat.genruntimeconfig.cache
+C:\Users\manuh\source\repos\ConsoleAppSimpleStat\ConsoleAppSimpleStat\obj\Debug\net10.0\ref\ConsoleAppSimpleStat.dll
