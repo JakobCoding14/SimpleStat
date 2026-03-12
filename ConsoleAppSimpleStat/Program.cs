@@ -15,6 +15,7 @@ using System.Runtime.CompilerServices;
         Console.WriteLine("Welcome to the Simple Statistics Console App!");
         Console.WriteLine("Please enter the data values to be shown in statistics");
         Console.WriteLine("------------------------------------------------------");
+        
         while (true)
         {
             string userloopInput;
@@ -23,8 +24,7 @@ using System.Runtime.CompilerServices;
             Console.WriteLine("Please enter decimal/integer number to be included in the statistic");
             Console.WriteLine("Enter the word DONE to end the input and show the statistics with the given data");
             userloopInput = Console.ReadLine().ToUpper();
-
-
+            
             if (userloopInput == "DONE") // If the user wants is done with input and wants to see the statistic of the given numbers
             {
                if (dataList.Count == 0)
